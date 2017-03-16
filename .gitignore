@@ -1,0 +1,7 @@
+.DS_Store
+deploy
+bundle
+upload.sh
+dataschema
+
+example-react-native-redux-master/node_modules/
